@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 int main() {
-//<<<<<<< master
 	printf("Ace world");
-=======
 	printf("Jayesh the great");
-
-//>>>>>>> master
+	printf("Hello, Vaibhav");
+	printf("Jayesh the great");
 	return 0;
 }
